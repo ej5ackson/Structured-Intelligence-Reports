@@ -91,9 +91,10 @@ Passionate Threat Intelligence Analyst with expertise in identifying, analyzing,
 
 ## 📫 Connect with Me
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourHandle)
+- Email: your.**ej5ackson@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/evans-martey-korley-jackson-5432ba359/
+- Github: (https://github.com/ej5ackson/ej5ackson.github.io.git)
+
 
 ---
 
